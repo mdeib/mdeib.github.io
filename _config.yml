@@ -1,0 +1,32 @@
+title: Matt Deible
+email:
+#description: >-
+#  Description
+baseurl: ""
+url: ""
+twitter_username: mattdeible
+github_username:  mdeib
+
+# Build settings
+remote_theme: jekyll/minima@1fe0fbf
+minima:
+  skin: auto
+
+  show_excerpts: true
+
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/mdeib"
+    - title: X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/mattdeible"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/matt-deible"
+    - title: Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=g1mLkpsAAAAJ&hl=en&oi=ao"
+
+plugins:
+  - jekyll-feed
